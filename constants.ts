@@ -1,0 +1,1 @@
+export const TIME_CHANGE = 'TIME_CHANGE'
